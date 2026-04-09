@@ -1,6 +1,6 @@
 A powerful, intelligent tool automate viewing websites, clicking ads, filling out forms, or gathering text data,...etc
 
-![Screenshot](/Smart Traffic Bot.png)
+![Screenshot](/Smart_Traffic_Bot.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
